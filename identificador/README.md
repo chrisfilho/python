@@ -1,26 +1,26 @@
-SAUDACAO E CLASSIFICAÇÃO DE IDADE
+Saudacão e classificação de idade
 ==============
 
 Desenvolver um programa educado para fazer uma saudação de acordo com o horário atual e, com base no ano de nascimento, exibir sua classificação de faixa etária.
 Bom dia, boa tarde, boa noite.
 Pergunte o nome do usuário e informe sua idade com sua respectiva classificação por faixa etária: 
 
-**INSTRUÇÕES**
+**Instruções**
 ==================
 - O sistema deverá solicitar o nome do usuário, para poder fazer o cumprimento adequado;
 - A Saudação deverá utilizar os textos: Bom dia, boa tarde ou boa noite;
 - As faixas estárias deverão contemplar as seguintes denominações: criança, pré-adolescente, adolescente, adulto ou idoso.
 
 **Exemplo:**
-***[Sistema]*** Qual é o seu nome? 
-***[Usuário]*** Chris
-***[Sistema]*** Bom dia Chris, bem vindo ao nosso sistema
-***[Sistema]*** Que ano você nasceu?
-***[Usuário]*** 2003
-***[Sistema]*** Então você tem ou fará neste ano 12 anos. Você está classificado como pré-adolescente.
+1 - ***[Sistema]*** Qual é o seu nome? 
+2 - ***[Usuário]*** Chris
+3 - ***[Sistema]*** Bom dia Chris, bem vindo ao nosso sistema
+4 - ***[Sistema]*** Que ano você nasceu?
+5 - ***[Usuário]*** 2003
+6 - ***[Sistema]*** Então você tem ou fará neste ano 12 anos. Você está classificado como pré-adolescente.
 
 
-**ESPECIFICÕES**
+**Especificações**
 ==================
 - Nome do script: hello.py
 - Permitir que o script seja executável utilizando ./hello.py
