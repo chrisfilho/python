@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
 print "um exemplo de como usar len()"
 
 variavel = "essa palavra e muito grande"
