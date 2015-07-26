@@ -2,11 +2,11 @@ e um codico muito simples .Primeiro voce importa o datetime assim:from datetime 
 
 imprima o conteudo na tela assim:print "aqui está o horario:"' %s:%s' % (now.hour,now.minute)
 
-hh:mm:ss
+hh:mm
 
 Para começar, mude a string format para a esquerda do operador %.
 
-Garanta que ela tem 3%s espaçadores temporários.ficando deste modo  %s:%s: %
+Garanta que ela tem 2%s espaçadores temporários.ficando deste modo  %s:%s: %
 
 depois coloque as variaveis now.hour, now.minute não se esqueca de colocar os () antes e depois das tres variaveis e assim sera exibido na tela:
 aqui está o horario:(hora atual).
